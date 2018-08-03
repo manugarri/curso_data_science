@@ -1,100 +1,100 @@
-ALEJANDRO,"7,581",LUCIA                          ,"9,454"
-DANIEL,"6,800",MARIA                          ,"7,702"
-PABLO,"6,432",PAULA                          ,"6,516"
-DAVID,"6,005",LAURA                          ,"5,144"
-ADRIAN,"5,011",CLAUDIA                        ,"4,756"
-ALVARO,"4,575",IRENE                          ,"4,506"
-JAVIER,"4,485",MARTA                          ,"4,359"
-SERGIO,"4,048",ALBA                           ,"4,296"
-HUGO,"3,976",SARA                           ,"4,150"
-DIEGO,"3,248",CARLA                          ,"3,571"
-CARLOS,"3,241",ANDREA                         ,"3,272"
-MARCOS,"3,187",NEREA                          ,"2,956"
-MARIO,"3,059",JULIA                          ,"2,648"
-IVAN,"3,011",NATALIA                        ,"2,612"
-MANUEL,"2,953",ELENA                          ,"2,576"
-MIGUEL,"2,860",ANA                            ,"2,566"
-JORGE,"2,821",SOFIA                          ,"2,554"
-RUBEN,"2,531",CARMEN                         ,"2,360"
-IKER,"2,479",DANIELA                        ,"2,313"
-RAUL,"2,476",MARINA                         ,"1,985"
-VICTOR,"2,462",CRISTINA                       ,"1,908"
-ANTONIO,"2,334",AINHOA                         ,"1,890"
-JUAN,"2,171",AITANA                         ,"1,864"
-HECTOR,"2,141",ROCIO                          ,"1,849"
-MARC,"2,138",ANGELA                         ,"1,836"
-SAMUEL,"2,077",ALEJANDRA                      ,"1,630"
-ALEX,"1,921",INES                           ,"1,626"
-JESUS,"1,822",NURIA                          ,"1,467"
-OSCAR,"1,818",ADRIANA                        ,"1,381"
-ALBERTO,"1,791",SANDRA                         ,"1,369"
-NICOLAS,"1,765",LAIA                           ,"1,344"
-ANGEL,"1,723",CANDELA                        ,"1,336"
-JAIME,"1,695",ARIADNA                        ,"1,254"
-JOSE,"1,653",MARTINA                        ,"1,223"
-FRANCISCO,"1,602",CELIA                          ,"1,199"
-GONZALO,"1,545",ALICIA                         ,"1,167"
-GUILLERMO,"1,545",CLARA                          ,"1,157"
-IZAN,"1,525",AINARA                         ,"1,140"
-PAU,"1,514",EVA                            ,"1,112"
-LUCAS,"1,510",NOA                            ,"1,106"
-GABRIEL,"1,454",NOELIA                         ,"1,078"
-ISMAEL,"1,362",CARLOTA                        ,"1,074"
-JOEL,"1,353",MIRIAM                         ,"1,051"
-PEDRO,"1,349",PATRICIA                       ,"1,047"
-RODRIGO,"1,339",BLANCA                         ,"1,040"
-IGNACIO,"1,335",ISABEL                         ,"1,019"
-AARON,"1,321",SILVIA                         ,"1,010"
-LUIS,"1,258",RAQUEL                         ,991
-MIGUEL ANGEL,"1,174",LORENA                         ,969
-RAFAEL,"1,158",CAROLINA                       ,882
-FERNANDO,"1,082",JIMENA                         ,845
-CRISTIAN,"1,050",LIDIA                          ,826
-FRANCISCO JAVIER,"1,037",AROA                           ,812
-ANDRES,"1,011",EMMA                           ,807
-AITOR,"1,005",VALERIA                        ,784
-POL,980,HELENA                         ,775
-JOAN,963,VICTORIA                       ,768
-ARNAU,952,MAR                            ,756
-MARTIN,934,BEATRIZ                        ,740
-JOSE ANTONIO,925,JUDITH                         ,725
-ERIC,921,NAIARA                         ,717
-JOSE MANUEL,897,MIREIA                         ,682
-MOHAMED,856,PAOLA                          ,679
-DARIO,842,LOLA                           ,653
-UNAI,824,AINA                           ,642
-SANTIAGO,815,ANNA                           ,640
-ROBERTO,791,SARAY                          ,639
-EDUARDO,788,NAYARA                         ,621
-ASIER,773,ERIKA                          ,620
-ENRIQUE,762,LARA                           ,618
-JORDI,758,LEIRE                          ,618
-MARCO,711,NORA                           ,613
-MATEO,696,ANA MARIA                      ,605
-ADRIA,691,BERTA                          ,605
-ADAM,688,LUNA                           ,578
-ORIOL,657,GABRIELA                       ,569
-MARTI,614,ESTHER                         ,567
-JUAN JOSE,610,YAIZA                          ,566
-JAN,609,ELSA                           ,564
-GERARD,589,ABRIL                          ,561
-KEVIN,587,YANIRA                         ,548
-SERGI,586,MONICA                         ,542
-BIEL,571,SALMA                          ,532
-JOSE LUIS,568,DIANA                          ,518
-CHRISTIAN,555,AFRICA                         ,515
-JUAN MANUEL,553,TANIA                          ,504
-JOSE MARIA,534,IRIA                           ,483
-GUILLEM,527,SHEILA                         ,471
-ISAAC,525,FATIMA                         ,466
-XAVIER,524,LEYRE                          ,465
-YERAY,524,TERESA                         ,452
-AIMAR,518,AYA                            ,440
-JUAN ANTONIO,506,NADIA                          ,437
-ERIK,505,SONIA                          ,418
-JOAQUIN,480,JANA                           ,404
-BRUNO,478,REBECA                         ,403
-SAUL,477,MARIA DEL CARMEN               ,396
-JUAN CARLOS,472,SORAYA                         ,395
-ROGER,469,ZAIRA                          ,394
-FRANCISCO JOSE,455,GEMA                           ,393
+ALEJANDRO,LUCIA                          
+DANIEL,MARIA                          
+PABLO,PAULA                          
+DAVID,LAURA                          
+ADRIAN,CLAUDIA                        
+ALVARO,IRENE                          
+JAVIER,MARTA                          
+SERGIO,ALBA                           
+HUGO,SARA                           
+DIEGO,CARLA                          
+CARLOS,ANDREA                         
+MARCOS,NEREA                          
+MARIO,JULIA                          
+IVAN,NATALIA                        
+MANUEL,ELENA                          
+MIGUEL,ANA                            
+JORGE,SOFIA                          
+RUBEN,CARMEN                         
+IKER,DANIELA                        
+RAUL,MARINA                         
+VICTOR,CRISTINA                       
+ANTONIO,AINHOA                         
+JUAN,AITANA                         
+HECTOR,ROCIO                          
+MARC,ANGELA                         
+SAMUEL,ALEJANDRA                      
+ALEX,INES                           
+JESUS,NURIA                          
+OSCAR,ADRIANA                        
+ALBERTO,SANDRA                         
+NICOLAS,LAIA                           
+ANGEL,CANDELA                        
+JAIME,ARIADNA                        
+JOSE,MARTINA                        
+FRANCISCO,CELIA                          
+GONZALO,ALICIA                         
+GUILLERMO,CLARA                          
+IZAN,AINARA                         
+PAU,EVA                            
+LUCAS,NOA                            
+GABRIEL,NOELIA                         
+ISMAEL,CARLOTA                        
+JOEL,MIRIAM                         
+PEDRO,PATRICIA                       
+RODRIGO,BLANCA                         
+IGNACIO,ISABEL                         
+AARON,SILVIA                         
+LUIS,RAQUEL                         
+MIGUEL ANGEL,LORENA                         
+RAFAEL,CAROLINA                       
+FERNANDO,JIMENA                         
+CRISTIAN,LIDIA                          
+FRANCISCO JAVIER,AROA                           
+ANDRES,EMMA                           
+AITOR,VALERIA                        
+POL,HELENA                         
+JOAN,VICTORIA                       
+ARNAU,MAR                            
+MARTIN,BEATRIZ                        
+JOSE ANTONIO,JUDITH                         
+ERIC,NAIARA                         
+JOSE MANUEL,MIREIA                         
+MOHAMED,PAOLA                          
+DARIO,LOLA                           
+UNAI,AINA                           
+SANTIAGO,ANNA                           
+ROBERTO,SARAY                          
+EDUARDO,NAYARA                         
+ASIER,ERIKA                          
+ENRIQUE,LARA                           
+JORDI,LEIRE                          
+MARCO,NORA                           
+MATEO,ANA MARIA                      
+ADRIA,BERTA                          
+ADAM,LUNA                           
+ORIOL,GABRIELA                       
+MARTI,ESTHER                         
+JUAN JOSE,YAIZA                          
+JAN,ELSA                           
+GERARD,ABRIL                          
+KEVIN,YANIRA                         
+SERGI,MONICA                         
+BIEL,SALMA                          
+JOSE LUIS,DIANA                          
+CHRISTIAN,AFRICA                         
+JUAN MANUEL,TANIA                          
+JOSE MARIA,IRIA                           
+GUILLEM,SHEILA                         
+ISAAC,FATIMA                         
+XAVIER,LEYRE                          
+YERAY,TERESA                         
+AIMAR,AYA                            
+JUAN ANTONIO,NADIA                          
+ERIK,SONIA                          
+JOAQUIN,JANA                           
+BRUNO,REBECA                         
+SAUL,MARIA DEL CARMEN               
+JUAN CARLOS,SORAYA                         
+ROGER,ZAIRA                          
+FRANCISCO JOSE,GEMA                           
