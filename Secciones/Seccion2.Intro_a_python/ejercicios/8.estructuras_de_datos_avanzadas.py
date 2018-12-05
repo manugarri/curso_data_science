@@ -230,12 +230,28 @@ claves "entrenador" y "pokemon"
 ]
 """
 
+pokemon_entrenadores = []
+for tupla in pokemon_entrenadores_lista:
+    pokemon_entrenadores.append({"entrenador":tupla[0],
+                                 "pokemon" : tupla[1]
+                                 })
 
+pokemon_entrenadores
+
+pokemon_entrenadores = []
+for pokemon, entrenador in pokemon_entrenadores_lista:
+    pokemon_entrenadores.append({"Entrenador":entrenador,
+                                "Pokemon": pokemon})
+pokemon_entrenadores
 #%%
 """
 Hacer una funcion que toma una frase y devuelve las 5 letras mas comunes 
 """
+def contar_letras(frase):
+    contador = Counter([letra for letra in frase if letra not in " ,.\n"])
+    return contador.most_common(5)
 
+print(contar_letras("Anita lava la tina"))
         
 #%%
 """
@@ -244,3 +260,12 @@ Crear una función que, dados dos listas de elementos, nos devuelva su coeficien
  como el número de elementos en los dos grupos dividido entre el número de elementos 
  en uno u otro grupo
 """
+
+def jacar(grupo1,grupo2):
+    union = len(set(grupo1).union(set(grupo2)))
+    interseccion = len(set(grupo1).intersection(set(grupo2)))
+    return interseccion / union
+
+ja = jacar(grupo_amigos1,grupo_amigos2)
+
+print(f"Indice de Jacar = {ja} * 100 = {round(ja*100,2)}%")
