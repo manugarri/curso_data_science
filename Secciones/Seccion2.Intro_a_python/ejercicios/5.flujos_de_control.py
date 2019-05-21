@@ -212,7 +212,7 @@ print("🎜🎝♩ 1  elefante se balanceaba, sobre la tela de una araña... �
 while n_elefante <=10: 
     print("🎜🎝♩ {} elefantes se balanceaban, sobre la tela de una araña... 🎜🎝♩ ".format(n_elefante))
     #usar n_elefante += 1 es lo equivalente a n_elefante = n_elefante + 1
-    n_elefante += 1 n_elefante = n_elefante + 1
+    n_elefante += 1 
     
 #%%
 """
